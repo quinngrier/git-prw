@@ -33,9 +33,10 @@
 @node Top
 @top Git PRW @w{@value{PACKAGEVERSION}}
 
-This manual is for
-Git PRW @w{@value{PACKAGEVERSION}},
-which was released on @w{@value{PACKAGEDATE}}@.
+This manual is for Git PRW
+@w{@value{PACKAGEVERSION}@comma{}}
+which was released on
+@w{@value{PACKAGEDATE}@.}
 @ifplaintext
 
 @insertcopying
